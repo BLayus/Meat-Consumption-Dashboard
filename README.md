@@ -1,4 +1,4 @@
-# Meat-Consumption-X-CO2 Emissions-Dashboard
+# Meat-Consumption-X-CO2-Emissions-Dashboard
 
 ## Dataset
 
